@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- BASE -->
+    <string name="app_name">Lototrip</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- OPENING ACTIVITY -->
+    <string name="logo">LOTOTRIP</string>
+     
+    <!-- PICTURE ACTIVITY -->
+    <string name="picture_header">Pildi tegemine</string>
+    
+    <string name="picture_bold_label">Pileti kontrollimiseks</string>
+    
+    <string name="camera_button">Tee pilt</string>
+     
+    <!-- FILTER ACTIVITY -->
+    <string name="filter_header">Pildilt saadud andmed</string>
+    
+    <string name="filter_bold_label">Pileti numbrid</string>
+    
+    <string name="filter_agree_button">Kinnitan</string>
+    <string name="filter_decline_button">Uus pilt</string>
+    
+    <!-- RESULT ACTIVITY -->
+    <string name="result_header">Tulemused</string>
+    
+    <string name="result_bold_label">Pileti tulemused</string>
+    
+    <string name="result_button">Tagasi algusesse</string>
+    
+</resources>

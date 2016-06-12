@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--API 21+ themes -->
+	<style name="AppBaseTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+		<item name="android:colorPrimary">#1a237e</item>
+		<item name="android:colorPrimaryDark">#1a237e</item>
+	</style>
+	
+</resources>
