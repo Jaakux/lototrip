@@ -1,0 +1,2 @@
+# lototrip
+lõputöö projekt
